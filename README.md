@@ -30,6 +30,16 @@ Instalar as dependências do projeto com o comando:
 npm install
 ```
 
+Inicializar a Aplicação:
+ ```bash
+npm start
+```
+
+No Browser:
+ ```bash
+https://localhost:3000
+```
+
 ## Testes
 Os testes para cada requisitos estão na pasta `src/tests`. Leia os arquivos para entender como os testes estão organizados.
 
